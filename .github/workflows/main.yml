@@ -12,5 +12,5 @@ jobs:
       with:
         server: files.000webhost.com
         username: projetantonin
-        password: Ard1hrkBAk7&ASZwEQsA
+        password: ${{ Ard1hrkBAk7&ASZwEQsA }}
         server-dir : public_html/
